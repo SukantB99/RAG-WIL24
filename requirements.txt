@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+tiktoken
+streamlit
+gradio
+pandas
+numpy
+scikit-learn
+matplotlib
+pytest
